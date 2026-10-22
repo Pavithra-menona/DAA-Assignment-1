@@ -1,6 +1,6 @@
 # -----------------------------------------
 # Program: Insertion Sort
-# Author: Devalakshmi Mohandas
+# Author: Pavithra Menon A
 # Description:
 # This program sorts an array using the
 # Insertion Sort algorithm.
